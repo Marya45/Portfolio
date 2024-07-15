@@ -16,7 +16,7 @@ function Projects() {
       lLink: "https://chat-app-rohan.netlify.app/",
     },
     {
-      title: "News-Monkey",
+      title: "NewsWave",
       img: project2,
       gLink: "https://github.com/Marya45/NEWSAPP",
       lLink: "https://drive.google.com/file/d/1VkdcwRt9ZIvJdIvd2_ERSVuoWqLmgjz-/view?usp=sharing",
